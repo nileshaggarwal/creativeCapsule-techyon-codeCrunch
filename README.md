@@ -29,6 +29,11 @@ https://codecrunch2020.herokuapp.com/
 * **Task 6**: DONE
 * **Task 7**: DONE
 * **Task 8**: DONE
+<<<<<<< HEAD
 * **Task 9**: DONE   
 * **Task 10**: DONE                                                                          
+=======
+* **Task 9**: DONE
+* **Task 10**: DONE
+>>>>>>> 68335a1a1e0f995013ea71b9105fa5024eeabe8b
 * **Task 11**: DONE
