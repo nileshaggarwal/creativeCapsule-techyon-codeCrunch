@@ -29,6 +29,6 @@ https://codecrunch2020.herokuapp.com/
 * **Task 6**: DONE
 * **Task 7**: DONE
 * **Task 8**: DONE
-* **Task 9**: IN-PROGRESS
-* **Task 10**: IN-PROGRESS
-* **Task 11**: IN-PROGRESS
+* **Task 9**: DONE
+* **Task 10**: DONE
+* **Task 11**: DONE
